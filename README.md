@@ -43,11 +43,9 @@ Os desafios desse programa foram desenvolvidos utilizando as seguintes tecnologi
 - [Pandas](https://pandas.pydata.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 
-### Requisitos
+Recomenda-se a instalação das mesmas caso deseje rodar os scripts em sua máquina.
 
-- [Python](https://www.python.org/)
-- [Anaconda](https://www.anaconda.com/)
-- [Jupyter](https://jupyter.org/)
+Mais informações de como fazer isso podem ser encontradas nos arquivos README de cada desafio.
 
 # Como contribuir
 
